@@ -15,3 +15,7 @@ NumPy
 ## Other
 1. Codes are credited to [Matthew Earl](https://github.com/matthewearl)'s [Deep Anpr](https://github.com/matthewearl/deep-anpr).
 2. To genereate your own training dataset, please refer to the original repository and retrain you model.
+
+## Sample images and expected outcomes
+![Input](/static/in.jpg)
+![Output](/static/out.png)
