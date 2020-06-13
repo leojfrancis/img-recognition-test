@@ -18,4 +18,4 @@ NumPy
 
 ## Sample images and expected outcomes
 ![Input](/static/in.jpg)
-![Output](/static/out.png)
+![Output](/static/out.jpg)
