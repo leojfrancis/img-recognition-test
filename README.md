@@ -1,5 +1,3 @@
-# Tensorflow-Number-Plate-Recognition
-
 ## Dependencies
 ```
 TensorFlow 1.0
